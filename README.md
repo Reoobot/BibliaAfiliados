@@ -1,0 +1,2 @@
+# BibliaAfiliados
+json static
