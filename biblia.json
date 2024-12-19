@@ -1,0 +1,44 @@
+[
+    {
+      "category": "Biblias Cristianas",
+      "products": [
+        {
+          "id": 1,
+          "title": "Biblia Reina Valera 1960: Letra Grande Versión Kindle",
+          "description": " Letra grande o RV 1960 es la forma definitiva de leer la biblia.",
+          "images": [
+            "biblia.jpg",
+            "biblia1.jpg",
+            "biblia2.jpg",
+            "biblia3.jpg"
+          ],
+          "price_link": "https://www.amazon.com/dp/exampleISBN1"
+        },
+        {
+          "id": 2,
+          "title": "La Santa Biblia, surtido: colores aleatorios: Tapa dura",
+          "description": "Traducida de los textos originales por quince especialistas,Evangelio con los pasajes y sus referencias bíblicas.",
+          "images": [
+            "biblia4.jpg",
+            "biblia5.jpg",
+            "biblia6.jpg",
+            "biblia7.jpg"
+          ],
+          "price_link": "https://www.amazon.com/dp/exampleISBN2"
+        },
+        {
+          "id": 3,
+          "title": "Sudadera con capucha para mujer, adolescentes, diseño de Jesús cristiano.",
+          "description": "Sudadera con capucha gráfica de amor como Jesús con texto en inglés, Jesus the way the truth and the life Jesus Loves You So Much, con capucha con letras.",
+          "images": [
+           "biblia8.jpg",
+            "biblia9.jpg",
+            "biblia10.jpg",
+            "biblia8.jpg"
+          ],
+          "price_link": "https://www.amazon.com/dp/exampleISBN3"
+        }
+      ]
+    }
+  ]
+  
