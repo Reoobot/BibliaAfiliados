@@ -4,39 +4,39 @@
       "products": [
         {
           "id": 1,
-          "title": "Biblia Reina Valera 1960: Letra Grande Versión Kindle",
-          "description": " Letra grande o RV 1960 es la forma definitiva de leer la biblia.",
+          "title": "BIBLIA CATALANA, LA (BIBLIAS)",
+          "description": "Aquesta Bíblia és el resultat d'un treball conjunt dut a terme per cristians de diverses confessions.",
           "images": [
-            "biblia.jpg",
+            "biblia0.jpg",
             "biblia1.jpg",
             "biblia2.jpg",
             "biblia3.jpg"
           ],
-          "price_link": "https://www.amazon.com/dp/exampleISBN1"
+          "price_link": "https://amzn.to/41JV4WH"
         },
         {
           "id": 2,
-          "title": "La Santa Biblia, surtido: colores aleatorios: Tapa dura",
-          "description": "Traducida de los textos originales por quince especialistas,Evangelio con los pasajes y sus referencias bíblicas.",
+          "title": "Biblia Joven, La. Rca (La Biblia joven)",
+          "description": "La Biblia que acompaña a los jóvenes en su iniciación cristiana. - Con la esmerada traducción de la Sagrada Biblia.",
           "images": [
             "biblia4.jpg",
             "biblia5.jpg",
             "biblia6.jpg",
             "biblia7.jpg"
           ],
-          "price_link": "https://www.amazon.com/dp/exampleISBN2"
+          "price_link": "https://amzn.to/41Hm6h9"
         },
         {
           "id": 3,
-          "title": "Sudadera con capucha para mujer, adolescentes, diseño de Jesús cristiano.",
-          "description": "Sudadera con capucha gráfica de amor como Jesús con texto en inglés, Jesus the way the truth and the life Jesus Loves You So Much, con capucha con letras.",
+          "title": "Biblia Reina Valera 1960 letra grande.",
+          "description": "Su encuadernación de lujo, con página para dedicatoria, cinta marcadora y canto dorado, hacen que la Santa Biblia RVR 1960sea ideal para el uso personal o para regalo.",
           "images": [
            "biblia8.jpg",
             "biblia9.jpg",
             "biblia10.jpg",
-            "biblia8.jpg"
+            "biblia11.jpg"
           ],
-          "price_link": "https://www.amazon.com/dp/exampleISBN3"
+          "price_link": "https://amzn.to/41O064j"
         }
       ]
     }
